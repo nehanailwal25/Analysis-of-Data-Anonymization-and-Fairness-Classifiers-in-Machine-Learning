@@ -1,0 +1,4 @@
+﻿Dataset,male_income<=50K,male_income>50K,female_income<=50K,female_income>50K
+Original Adult,46.41103887,21.09371545,28.80456415,3.690681527
+Anonymized Adult,46.36297328,21.20549035,28.7447782,3.686758173
+Fair Anonymized Adult,44.71880298,22.85693226,27.67008182,4.754182944
