@@ -1,0 +1,5 @@
+from fParam.metrics.metric import Metric
+from fParam.metrics.dataset_metric import DatasetMetric
+from fParam.metrics.binary_label_dataset_metric import BinaryLabelDatasetMetric
+from fParam.metrics.classification_metric import ClassificationMetric
+from fParam.metrics.sample_distortion_metric import SampleDistortionMetric
