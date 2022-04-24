@@ -1,0 +1,3 @@
+from fParam.algorithms.inprocessing.celisMeta.FalseDiscovery import FalseDiscovery
+from fParam.algorithms.inprocessing.celisMeta.StatisticalRate import StatisticalRate
+import fParam.algorithms.inprocessing.celisMeta.utils
